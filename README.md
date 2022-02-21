@@ -1,0 +1,2 @@
+# SloLib
+My JavaScript library
